@@ -1,0 +1,33 @@
+uri,type,dc.id,collection,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+colt:xyzmethodes,skos:Collection,xyzmethodes,,,Collectie van xyzmethodes.,,,,,,,,,,,,,cs,xyzmethode,,,,,,
+ct:P,skos:Concept,P,colt:xyzmethodes,,XY_GPS (nk 10m),,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:Q,skos:Concept,Q,colt:xyzmethodes,,XY_GPS - RTK FLEPOS (nk 2-3cm),,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:S,skos:Concept,S,colt:xyzmethodes,,"XY_GPS statische fasemeting (nk 0,5cm)",,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:I,skos:Concept,I,colt:xyzmethodes,,XY_gedigitaliseerd in Google Earth,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:A,skos:Concept,A,colt:xyzmethodes,,XY_gedigitaliseerd op GRB,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:c,skos:Concept,c,colt:xyzmethodes,,XY_gedigitaliseerd op POPP-kaart,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:K,skos:Concept,K,colt:xyzmethodes,,XY_gedigitaliseerd op kadasterplan,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:O,skos:Concept,O,colt:xyzmethodes,,XY_gedigitaliseerd op orthofoto,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:G,skos:Concept,G,colt:xyzmethodes,,XY_gedigitaliseerd op topokaart,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:d,skos:Concept,d,colt:xyzmethodes,,XY_getransformeerde coördinaten uit dossier,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:U,skos:Concept,U,colt:xyzmethodes,,XY_methode onbekend,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:L,skos:Concept,L,colt:xyzmethodes,,XY_topografisch ingemeten,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:V,skos:Concept,V,colt:xyzmethodes,,XY_totaalstation,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:D,skos:Concept,D,colt:xyzmethodes,,XY_uit dossier,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:Y,skos:Concept,Y,colt:xyzmethodes,,Z_DHM_v1 100m*100m,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:X,skos:Concept,X,colt:xyzmethodes,,Z_DHM_v1 25m*25m,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:W,skos:Concept,W,colt:xyzmethodes,,Z_DHM_v1 5m*5m,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:B,skos:Concept,B,colt:xyzmethodes,,Z_DHM_v2,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:R,skos:Concept,R,colt:xyzmethodes,,Z_GPS,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:Z,skos:Concept,Z,colt:xyzmethodes,,Z_GPS - RTK FLEPOS,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:a,skos:Concept,a,colt:xyzmethodes,,Z_GPS - RTK FLEPOS (model hBG03),,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:b,skos:Concept,b,colt:xyzmethodes,,Z_GPS - RTK FLEPOS (model hBG18),,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:H,skos:Concept,H,colt:xyzmethodes,,Z_GPS statische fasemeting,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:T,skos:Concept,T,colt:xyzmethodes,,Z_afgeleid van topokaart,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:C,skos:Concept,C,colt:xyzmethodes,,Z_berekend op basis van hoogteverschil met maaiveld,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:J,skos:Concept,J,colt:xyzmethodes,,Z_gedigitaliseerd in Google Earth,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:E,skos:Concept,E,colt:xyzmethodes,,Z_methode onbekend,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:e,skos:Concept,e,colt:xyzmethodes,,Z_niet te achterhalen,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:F,skos:Concept,F,colt:xyzmethodes,,Z_topografisch ingemeten,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:M,skos:Concept,M,colt:xyzmethodes,,Z_totaalstation,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
+ct:N,skos:Concept,N,colt:xyzmethodes,,Z_uit dossier,,,,,,,,,,,,,cs:xyzmethode,,,,,,,cs:xyzmethode
