@@ -1,8 +1,8 @@
-# codelijst-xyzmethodes
+# codelijst-xyzmethode
 
 ## Samenvatting
 
-De codelijst 'xyzmethodes' bevat eenduidige benamingen van ...
+De codelijst 'xyzmethode' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

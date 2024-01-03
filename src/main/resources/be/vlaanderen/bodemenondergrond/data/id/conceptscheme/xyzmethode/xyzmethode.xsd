@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

@@ -1,0 +1,688 @@
+{
+    "@graph": [
+        {
+            "@id": "ct:c",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_gedigitaliseerd op POPP-kaart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "c",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "cs:xyzmethode",
+            "skos:hasTopConcept": [
+                {
+                    "@id": "ct:W"
+                },
+                {
+                    "@id": "ct:O"
+                },
+                {
+                    "@id": "ct:I"
+                },
+                {
+                    "@id": "ct:a"
+                },
+                {
+                    "@id": "ct:X"
+                },
+                {
+                    "@id": "ct:P"
+                },
+                {
+                    "@id": "ct:J"
+                },
+                {
+                    "@id": "ct:d"
+                },
+                {
+                    "@id": "ct:S"
+                },
+                {
+                    "@id": "ct:U"
+                },
+                {
+                    "@id": "ct:M"
+                },
+                {
+                    "@id": "ct:G"
+                },
+                {
+                    "@id": "ct:e"
+                },
+                {
+                    "@id": "ct:C"
+                },
+                {
+                    "@id": "ct:T"
+                },
+                {
+                    "@id": "ct:V"
+                },
+                {
+                    "@id": "ct:N"
+                },
+                {
+                    "@id": "ct:H"
+                },
+                {
+                    "@id": "ct:D"
+                },
+                {
+                    "@id": "ct:b"
+                },
+                {
+                    "@id": "ct:Y"
+                },
+                {
+                    "@id": "ct:Q"
+                },
+                {
+                    "@id": "ct:K"
+                },
+                {
+                    "@id": "ct:c"
+                },
+                {
+                    "@id": "ct:E"
+                },
+                {
+                    "@id": "ct:A"
+                },
+                {
+                    "@id": "ct:R"
+                },
+                {
+                    "@id": "ct:Z"
+                },
+                {
+                    "@id": "ct:L"
+                },
+                {
+                    "@id": "ct:F"
+                },
+                {
+                    "@id": "ct:B"
+                }
+            ]
+        },
+        {
+            "@id": "ct:W",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_DHM_v1 5m*5m"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "W",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Q",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_GPS - RTK FLEPOS (nk 2-3cm)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "Q",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:K",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_gedigitaliseerd op kadasterplan"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "K",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:E",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_methode onbekend"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "E",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:d",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_getransformeerde coördinaten uit dossier"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "d",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:X",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_DHM_v1 25m*25m"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "X",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:R",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_GPS"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "R",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:L",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_topografisch ingemeten"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "L",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:F",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_topografisch ingemeten"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "F",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "colt:xyzmethode",
+            "skos:member": [
+                {
+                    "@id": "ct:I"
+                },
+                {
+                    "@id": "ct:O"
+                },
+                {
+                    "@id": "ct:H"
+                },
+                {
+                    "@id": "ct:D"
+                },
+                {
+                    "@id": "ct:N"
+                },
+                {
+                    "@id": "ct:K"
+                },
+                {
+                    "@id": "ct:U"
+                },
+                {
+                    "@id": "ct:b"
+                },
+                {
+                    "@id": "ct:Q"
+                },
+                {
+                    "@id": "ct:e"
+                },
+                {
+                    "@id": "ct:a"
+                },
+                {
+                    "@id": "ct:J"
+                },
+                {
+                    "@id": "ct:P"
+                },
+                {
+                    "@id": "ct:d"
+                },
+                {
+                    "@id": "ct:W"
+                },
+                {
+                    "@id": "ct:S"
+                },
+                {
+                    "@id": "ct:c"
+                },
+                {
+                    "@id": "ct:L"
+                },
+                {
+                    "@id": "ct:V"
+                },
+                {
+                    "@id": "ct:R"
+                },
+                {
+                    "@id": "ct:E"
+                },
+                {
+                    "@id": "ct:Y"
+                },
+                {
+                    "@id": "ct:A"
+                },
+                {
+                    "@id": "ct:X"
+                },
+                {
+                    "@id": "ct:T"
+                },
+                {
+                    "@id": "ct:G"
+                },
+                {
+                    "@id": "ct:C"
+                },
+                {
+                    "@id": "ct:M"
+                },
+                {
+                    "@id": "ct:F"
+                },
+                {
+                    "@id": "ct:Z"
+                },
+                {
+                    "@id": "ct:B"
+                }
+            ],
+            "skos:mappingRelation": {
+                "@id": "file:///tmp/RtmpBc1Auw/xyzmethode"
+            },
+            "skos:inScheme": {
+                "@id": "file:///tmp/RtmpBc1Auw/cs"
+            },
+            "dc:identifier": "xyzmethode",
+            "@type": "skos:Collection",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Collectie van xyzmethode."
+            }
+        },
+        {
+            "@id": "ct:I",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_gedigitaliseerd in Google Earth"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "I",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:O",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_gedigitaliseerd op orthofoto"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "O",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:H",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_GPS statische fasemeting"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "H",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:D",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_uit dossier"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "D",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:N",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_uit dossier"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "N",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:U",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_methode onbekend"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "U",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:b",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_GPS - RTK FLEPOS (model hBG18)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "b",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:e",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_niet te achterhalen"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "e",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:a",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_GPS - RTK FLEPOS (model hBG03)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "a",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:J",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_gedigitaliseerd in Google Earth"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "J",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:P",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_GPS (nk 10m)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "P",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:S",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_GPS statische fasemeting (nk 0,5cm)"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "S",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:V",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_totaalstation"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "V",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Y",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_DHM_v1 100m*100m"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "Y",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:A",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_gedigitaliseerd op GRB"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "A",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:T",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_afgeleid van topokaart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "T",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:G",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "XY_gedigitaliseerd op topokaart"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "G",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:C",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_berekend op basis van hoogteverschil met maaiveld"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "C",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:M",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_totaalstation"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "M",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:Z",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_GPS - RTK FLEPOS"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "Z",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "ct:B",
+            "skos:topConceptOf": {
+                "@id": "cs:xyzmethode"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Z_DHM_v2"
+            },
+            "skos:inScheme": {
+                "@id": "cs:xyzmethode"
+            },
+            "dc:identifier": "B",
+            "@type": "skos:Concept"
+        }
+    ],
+    "@context": {
+        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/",
+        "dct": "http://purl.org/dc/terms/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
+    }
+}
