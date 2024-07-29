@@ -1,0 +1,34 @@
+uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+conceptscheme:xyzmethode,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.xyzmethode,,,Lijst met xyzmethodes,,,,,,,,,,,,,,,,,,,,
+collectie:xyzmethode,,,xyzmethode,Collectie van xyzmethode.,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,
+P,,collectie:xyzmethode,P,XY_GPS (nk 10m),,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+Q,,collectie:xyzmethode,Q,XY_GPS - RTK FLEPOS (nk 2-3cm),,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+S,,collectie:xyzmethode,S,"XY_GPS statische fasemeting (nk 0,5cm)",,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+I,,collectie:xyzmethode,I,XY_gedigitaliseerd in Google Earth,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+A,,collectie:xyzmethode,A,XY_gedigitaliseerd op GRB,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+c,,collectie:xyzmethode,c,XY_gedigitaliseerd op POPP-kaart,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+K,,collectie:xyzmethode,K,XY_gedigitaliseerd op kadasterplan,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+O,,collectie:xyzmethode,O,XY_gedigitaliseerd op orthofoto,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+G,,collectie:xyzmethode,G,XY_gedigitaliseerd op topokaart,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+d,,collectie:xyzmethode,d,XY_getransformeerde coördinaten uit dossier,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+U,,collectie:xyzmethode,U,XY_methode onbekend,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+L,,collectie:xyzmethode,L,XY_topografisch ingemeten,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+V,,collectie:xyzmethode,V,XY_totaalstation,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+D,,collectie:xyzmethode,D,XY_uit dossier,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+Y,,collectie:xyzmethode,Y,Z_DHM_v1 100m*100m,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+X,,collectie:xyzmethode,X,Z_DHM_v1 25m*25m,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+W,,collectie:xyzmethode,W,Z_DHM_v1 5m*5m,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+B,,collectie:xyzmethode,B,Z_DHM_v2,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+R,,collectie:xyzmethode,R,Z_GPS,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+Z,,collectie:xyzmethode,Z,Z_GPS - RTK FLEPOS,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+a,,collectie:xyzmethode,a,Z_GPS - RTK FLEPOS (model hBG03),,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+b,,collectie:xyzmethode,b,Z_GPS - RTK FLEPOS (model hBG18),,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+H,,collectie:xyzmethode,H,Z_GPS statische fasemeting,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+T,,collectie:xyzmethode,T,Z_afgeleid van topokaart,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+C,,collectie:xyzmethode,C,Z_berekend op basis van hoogteverschil met maaiveld,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+J,,collectie:xyzmethode,J,Z_gedigitaliseerd in Google Earth,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+E,,collectie:xyzmethode,E,Z_methode onbekend,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+e,,collectie:xyzmethode,e,Z_niet te achterhalen,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+F,,collectie:xyzmethode,F,Z_topografisch ingemeten,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+M,,collectie:xyzmethode,M,Z_totaalstation,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode
+N,,collectie:xyzmethode,N,Z_uit dossier,,,,,,,,,,,,,conceptscheme:xyzmethode,,,,,,,conceptscheme:xyzmethode

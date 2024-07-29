@@ -1,0 +1,224 @@
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#notation> "xyzmethode" .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/xyzmethode> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectie van xyzmethode."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> <http://www.w3.org/2004/02/skos/core#notation> "A" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_gedigitaliseerd op GRB"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> <http://www.w3.org/2004/02/skos/core#notation> "B" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_DHM_v2"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> <http://www.w3.org/2004/02/skos/core#notation> "C" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_berekend op basis van hoogteverschil met maaiveld"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> <http://www.w3.org/2004/02/skos/core#notation> "D" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_uit dossier"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> <http://www.w3.org/2004/02/skos/core#notation> "E" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_methode onbekend"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> <http://www.w3.org/2004/02/skos/core#notation> "F" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_topografisch ingemeten"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> <http://www.w3.org/2004/02/skos/core#notation> "G" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_gedigitaliseerd op topokaart"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> <http://www.w3.org/2004/02/skos/core#notation> "H" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_GPS statische fasemeting"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> <http://www.w3.org/2004/02/skos/core#notation> "I" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_gedigitaliseerd in Google Earth"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> <http://www.w3.org/2004/02/skos/core#notation> "J" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_gedigitaliseerd in Google Earth"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> <http://www.w3.org/2004/02/skos/core#notation> "K" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_gedigitaliseerd op kadasterplan"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> <http://www.w3.org/2004/02/skos/core#notation> "L" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_topografisch ingemeten"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> <http://www.w3.org/2004/02/skos/core#notation> "M" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_totaalstation"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> <http://www.w3.org/2004/02/skos/core#notation> "N" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_uit dossier"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> <http://www.w3.org/2004/02/skos/core#notation> "O" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_gedigitaliseerd op orthofoto"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> <http://www.w3.org/2004/02/skos/core#notation> "P" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_GPS (nk 10m)"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> <http://www.w3.org/2004/02/skos/core#notation> "Q" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_GPS - RTK FLEPOS (nk 2-3cm)"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> <http://www.w3.org/2004/02/skos/core#notation> "R" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_GPS"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> <http://www.w3.org/2004/02/skos/core#notation> "S" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_GPS statische fasemeting (nk 0,5cm)"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> <http://www.w3.org/2004/02/skos/core#notation> "T" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_afgeleid van topokaart"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> <http://www.w3.org/2004/02/skos/core#notation> "U" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_methode onbekend"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> <http://www.w3.org/2004/02/skos/core#notation> "V" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_totaalstation"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> <http://www.w3.org/2004/02/skos/core#notation> "W" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_DHM_v1 5m*5m"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> <http://www.w3.org/2004/02/skos/core#notation> "X" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_DHM_v1 25m*25m"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> <http://www.w3.org/2004/02/skos/core#notation> "Y" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_DHM_v1 100m*100m"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> <http://www.w3.org/2004/02/skos/core#notation> "Z" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_GPS - RTK FLEPOS"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_GPS - RTK FLEPOS (model hBG03)"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_GPS - RTK FLEPOS (model hBG18)"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_gedigitaliseerd op POPP-kaart"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> <http://www.w3.org/2004/02/skos/core#prefLabel> "XY_getransformeerde coördinaten uit dossier"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z_niet te achterhalen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.xyzmethode" .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/A> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/B> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/C> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/D> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/E> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/F> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/G> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/H> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/I> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/J> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/K> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/L> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/M> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/N> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/O> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/P> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Q> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/R> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/S> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/T> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/U> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/V> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/W> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/X> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Y> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/Z> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/a> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/b> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/c> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/d> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/e> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/xyzmethode> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lijst met xyzmethodes"@nl .

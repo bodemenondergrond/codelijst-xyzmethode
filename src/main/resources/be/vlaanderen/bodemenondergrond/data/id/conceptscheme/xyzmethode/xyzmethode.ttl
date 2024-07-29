@@ -1,204 +1,220 @@
-@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/> .
-@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
-@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/> .
-@prefix dc:   <http://purl.org/dc/elements/1.1/> .
-@prefix dct:  <http://purl.org/dc/terms/> .
-@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
-@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix concept: <https://data.bodemenondergrond.vlaanderen.be/id/concept/xyzmethode/>.
+@prefix collectie: <https://data.bodemenondergrond.vlaanderen.be/id/collection/xyzmethode/>.
+@prefix access_right: <http://publications.europa.eu/resource/authority/access-right/>.
+@prefix adms: <http://www.w3.org/ns/adms#>.
+@prefix assettype: <http://purl.org/adms/assettype/>.
+@prefix conceptscheme: <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/>.
+@prefix country: <http://publications.europa.eu/resource/authority/country/>.
+@prefix datasets: <https://datasets.omgeving.vlaanderen.be/>.
+@prefix datatheme_be: <http://vocab.belgif.be/auth/datatheme/>.
+@prefix datatheme_eu: <http://publications.europa.eu/resource/authority/data-theme/>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix eurovoc: <http://eurovoc.europa.eu/>.
+@prefix file_type: <http://publications.europa.eu/resource/authority/file-type/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix formats: <http://www.w3.org/ns/formats/>.
+@prefix frequency: <http://publications.europa.eu/resource/authority/frequency/>.
+@prefix gemet: <http://www.eionet.europa.eu/gemet/concept/>.
+@prefix licence: <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/>.
+@prefix metadata: <https://data.omgeving.vlaanderen.be/ns/metadata#>.
+@prefix omg_catalog: <https://data.bodemenondergrond.vlaanderen.be/id/catalog/>.
+@prefix omg_catalog_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/catalog/>.
+@prefix omg_collection: <https://data.bodemenondergrond.vlaanderen.be/id/collection/>.
+@prefix omg_dataservice: <https://data.bodemenondergrond.vlaanderen.be/id/dataservice/>.
+@prefix omg_dataset_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/dataset/>.
+@prefix omg_dataset: <https://data.bodemenondergrond.vlaanderen.be/id/dataset/>.
+@prefix omg_distribution_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/distribution/>.
+@prefix omg_distribution: <https://data.bodemenondergrond.vlaanderen.be/id/distribution/>.
+@prefix omg_graphcollection: <https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/>.
+@prefix omg_graph: <https://data.bodemenondergrond.vlaanderen.be/id/graph/>.
+@prefix omg_id: <https://data.bodemenondergrond.vlaanderen.be/id/>.
+@prefix omg_named_graph: <https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/>.
+@prefix omg_ontology: <https://data.bodemenondergrond.vlaanderen.be/id/ontology/>.
+@prefix omg_package: <https://data.bodemenondergrond.vlaanderen.be/id/package/>.
+@prefix omg_periodoftime: <https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/>.
+@prefix omg_service: <https://data.bodemenondergrond.vlaanderen.be/id/service/>.
+@prefix omg_vcard: <https://data.bodemenondergrond.vlaanderen.be/id/vcard/>.
+@prefix ovo: <http://data.vlaanderen.be/id/organisatie/>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix repo: <https://repo.omgeving.vlaanderen.be/artifactory/release/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix spdx: <http://spdx.org/rdf/terms#>.
+@prefix ssd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix ts: <http://www.w3.org/ns/formats/>.
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix wise: <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/>.
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-ct:c    rdf:type           skos:Concept;
-        dc:identifier      "c";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_gedigitaliseerd op POPP-kaart"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:W    rdf:type           skos:Concept;
-        dc:identifier      "W";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_DHM_v1 5m*5m"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:Q    rdf:type           skos:Concept;
-        dc:identifier      "Q";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_GPS - RTK FLEPOS (nk 2-3cm)"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:K    rdf:type           skos:Concept;
-        dc:identifier      "K";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_gedigitaliseerd op kadasterplan"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:E    rdf:type           skos:Concept;
-        dc:identifier      "E";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_methode onbekend"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:d    rdf:type           skos:Concept;
-        dc:identifier      "d";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_getransformeerde coördinaten uit dossier"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:X    rdf:type           skos:Concept;
-        dc:identifier      "X";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_DHM_v1 25m*25m"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:R    rdf:type           skos:Concept;
-        dc:identifier      "R";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_GPS"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:L    rdf:type           skos:Concept;
-        dc:identifier      "L";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_topografisch ingemeten"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:F    rdf:type           skos:Concept;
-        dc:identifier      "F";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_topografisch ingemeten"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-colt:xyzmethode  rdf:type     skos:Collection;
-        dc:identifier         "xyzmethode";
-        skos:inScheme         <file:///tmp/RtmpBc1Auw/cs>;
-        skos:mappingRelation  <file:///tmp/RtmpBc1Auw/xyzmethode>;
-        skos:member           ct:I , ct:O , ct:H , ct:D , ct:N , ct:K , ct:U , ct:b , ct:Q , ct:e , ct:a , ct:J , ct:P , ct:d , ct:W , ct:S , ct:c , ct:L , ct:V , ct:R , ct:E , ct:Y , ct:A , ct:X , ct:T , ct:G , ct:C , ct:M , ct:F , ct:Z , ct:B;
-        skos:prefLabel        "Collectie van xyzmethode."@nl .
-
-ct:e    rdf:type           skos:Concept;
-        dc:identifier      "e";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_niet te achterhalen"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:Y    rdf:type           skos:Concept;
-        dc:identifier      "Y";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_DHM_v1 100m*100m"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:S    rdf:type           skos:Concept;
-        dc:identifier      "S";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_GPS statische fasemeting (nk 0,5cm)"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:M    rdf:type           skos:Concept;
-        dc:identifier      "M";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_totaalstation"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:G    rdf:type           skos:Concept;
-        dc:identifier      "G";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_gedigitaliseerd op topokaart"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:A    rdf:type           skos:Concept;
-        dc:identifier      "A";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_gedigitaliseerd op GRB"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:Z    rdf:type           skos:Concept;
-        dc:identifier      "Z";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_GPS - RTK FLEPOS"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:T    rdf:type           skos:Concept;
-        dc:identifier      "T";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_afgeleid van topokaart"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:N    rdf:type           skos:Concept;
-        dc:identifier      "N";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_uit dossier"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:H    rdf:type           skos:Concept;
-        dc:identifier      "H";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_GPS statische fasemeting"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:B    rdf:type           skos:Concept;
-        dc:identifier      "B";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_DHM_v2"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:a    rdf:type           skos:Concept;
-        dc:identifier      "a";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_GPS - RTK FLEPOS (model hBG03)"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:U    rdf:type           skos:Concept;
-        dc:identifier      "U";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_methode onbekend"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:O    rdf:type           skos:Concept;
-        dc:identifier      "O";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_gedigitaliseerd op orthofoto"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:I    rdf:type           skos:Concept;
-        dc:identifier      "I";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_gedigitaliseerd in Google Earth"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:C    rdf:type           skos:Concept;
-        dc:identifier      "C";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_berekend op basis van hoogteverschil met maaiveld"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-cs:xyzmethode  skos:hasTopConcept  ct:W , ct:O , ct:I , ct:a , ct:X , ct:P , ct:J , ct:d , ct:S , ct:U , ct:M , ct:G , ct:e , ct:C , ct:T , ct:V , ct:N , ct:H , ct:D , ct:b , ct:Y , ct:Q , ct:K , ct:c , ct:E , ct:A , ct:R , ct:Z , ct:L , ct:F , ct:B .
-
-ct:b    rdf:type           skos:Concept;
-        dc:identifier      "b";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_GPS - RTK FLEPOS (model hBG18)"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:V    rdf:type           skos:Concept;
-        dc:identifier      "V";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_totaalstation"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:P    rdf:type           skos:Concept;
-        dc:identifier      "P";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_GPS (nk 10m)"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:J    rdf:type           skos:Concept;
-        dc:identifier      "J";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "Z_gedigitaliseerd in Google Earth"@nl;
-        skos:topConceptOf  cs:xyzmethode .
-
-ct:D    rdf:type           skos:Concept;
-        dc:identifier      "D";
-        skos:inScheme      cs:xyzmethode;
-        skos:prefLabel     "XY_uit dossier"@nl;
-        skos:topConceptOf  cs:xyzmethode .
+collectie:xyzmethode a skos:Collection;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:member concept:A, concept:B, concept:C, concept:D, concept:E, concept:F, concept:G, concept:H, concept:I, concept:J, concept:K, concept:L, concept:M, concept:N, concept:O, concept:P, concept:Q, concept:R, concept:S, concept:T, concept:U, concept:V, concept:W, concept:X, concept:Y, concept:Z, concept:a, concept:b, concept:c, concept:d, concept:e;
+    skos:notation "xyzmethode";
+    skos:prefLabel "Collectie van xyzmethode."@nl.
+concept:A a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "A";
+    skos:prefLabel "XY_gedigitaliseerd op GRB"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:B a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "B";
+    skos:prefLabel "Z_DHM_v2"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:C a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "C";
+    skos:prefLabel "Z_berekend op basis van hoogteverschil met maaiveld"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:D a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "D";
+    skos:prefLabel "XY_uit dossier"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:E a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "E";
+    skos:prefLabel "Z_methode onbekend"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:F a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "F";
+    skos:prefLabel "Z_topografisch ingemeten"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:G a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "G";
+    skos:prefLabel "XY_gedigitaliseerd op topokaart"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:H a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "H";
+    skos:prefLabel "Z_GPS statische fasemeting"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:I a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "I";
+    skos:prefLabel "XY_gedigitaliseerd in Google Earth"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:J a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "J";
+    skos:prefLabel "Z_gedigitaliseerd in Google Earth"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:K a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "K";
+    skos:prefLabel "XY_gedigitaliseerd op kadasterplan"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:L a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "L";
+    skos:prefLabel "XY_topografisch ingemeten"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:M a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "M";
+    skos:prefLabel "Z_totaalstation"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:N a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "N";
+    skos:prefLabel "Z_uit dossier"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:O a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "O";
+    skos:prefLabel "XY_gedigitaliseerd op orthofoto"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:P a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "P";
+    skos:prefLabel "XY_GPS (nk 10m)"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:Q a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "Q";
+    skos:prefLabel "XY_GPS - RTK FLEPOS (nk 2-3cm)"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:R a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "R";
+    skos:prefLabel "Z_GPS"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:S a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "S";
+    skos:prefLabel "XY_GPS statische fasemeting (nk 0,5cm)"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:T a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "T";
+    skos:prefLabel "Z_afgeleid van topokaart"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:U a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "U";
+    skos:prefLabel "XY_methode onbekend"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:V a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "V";
+    skos:prefLabel "XY_totaalstation"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:W a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "W";
+    skos:prefLabel "Z_DHM_v1 5m*5m"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:X a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "X";
+    skos:prefLabel "Z_DHM_v1 25m*25m"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:Y a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "Y";
+    skos:prefLabel "Z_DHM_v1 100m*100m"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:Z a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "Z";
+    skos:prefLabel "Z_GPS - RTK FLEPOS"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:a a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "a";
+    skos:prefLabel "Z_GPS - RTK FLEPOS (model hBG03)"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:b a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "b";
+    skos:prefLabel "Z_GPS - RTK FLEPOS (model hBG18)"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:c a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "c";
+    skos:prefLabel "XY_gedigitaliseerd op POPP-kaart"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:d a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "d";
+    skos:prefLabel "XY_getransformeerde coördinaten uit dossier"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+concept:e a skos:Concept;
+    skos:inScheme conceptscheme:xyzmethode;
+    skos:notation "e";
+    skos:prefLabel "Z_niet te achterhalen"@nl;
+    skos:topConceptOf conceptscheme:xyzmethode.
+conceptscheme:xyzmethode dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.xyzmethode";
+    a skos:ConceptScheme;
+    skos:hasTopConcept concept:A, concept:B, concept:C, concept:D, concept:E, concept:F, concept:G, concept:H, concept:I, concept:J, concept:K, concept:L, concept:M, concept:N, concept:O, concept:P, concept:Q, concept:R, concept:S, concept:T, concept:U, concept:V, concept:W, concept:X, concept:Y, concept:Z, concept:a, concept:b, concept:c, concept:d, concept:e;
+    skos:prefLabel "Lijst met xyzmethodes"@nl.
